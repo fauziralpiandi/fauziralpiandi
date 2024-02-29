@@ -6,10 +6,6 @@
 
 [fwzyrln_][web-url]
 
-[hero-url]: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi.github.io/master/assets/imgs/hero.jpg
-[web-url]: https://fauziralpiandi.github.io/
-[banner-url]: https://raw.githubusercontent.com/nunocoracao/blowfish/main/exampleSite/content/users/fwzyrln_/feature.jpg
-
 `⚡ make it work, make it right, make it fast` <br />
 `✨️ thirsty for knowledge and pursued by curiosity` <br/>
 `🔥 loving death as you love life` <br />
@@ -34,3 +30,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fwzyrln_)
 
 </div>
+
+[hero-url]: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi.github.io/master/assets/imgs/hero.jpg
+[web-url]: https://fauziralpiandi.github.io/
+[banner-url]: https://raw.githubusercontent.com/nunocoracao/blowfish/main/exampleSite/content/users/fwzyrln_/feature.jpg
