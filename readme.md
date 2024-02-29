@@ -1,4 +1,4 @@
-## 💫 Fauzira Alpiandi
+## Fauzira Alpiandi
 `⚡` `make it work, make it right, make it fast` <br />
 `✨️` `thirsty for knowledge and pursued by curiosity` <br/>
 `🔥` `loving death as you love life` <br />
