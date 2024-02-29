@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hero](moon.jpg)
+![Hero](hero.gif)
 
 **`Fauzira Alpiandi`**
 
