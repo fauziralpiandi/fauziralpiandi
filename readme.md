@@ -1,6 +1,6 @@
 <div align="center">
 
-![Front-End Developer](hero-url)
+![Front-End Developer](https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/master/hero.png)
 
 **`Fauzira Alpiandi`**
 
@@ -43,5 +43,3 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&coverimage=false&theme=compact&showoffline=false&backgroundcolor=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&redirect=true)
 
 </div>
-
-[hero-url]: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/master/hero.png
