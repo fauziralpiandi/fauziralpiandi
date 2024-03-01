@@ -40,6 +40,6 @@
 
 **`Relax and Inspire`**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&coverimage=true&theme=default&showoffline=false&backgroundcolor=121212&interchange=true&barcolor=53b14f&barcolorcover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&coverimage=false&theme=compact&showoffline=false&backgroundcolor=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&redirect=true)
 
 </div>
