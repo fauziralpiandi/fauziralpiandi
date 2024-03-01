@@ -44,4 +44,4 @@
 
 </div>
 
-(hero-url): https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/master/hero.png
+hero-url: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/master/hero.png
