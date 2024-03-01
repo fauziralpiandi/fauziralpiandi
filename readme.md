@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hero](hero.gif)
+![Hero](hero.webp)
 
 **`Fauzira Alpiandi`**
 
