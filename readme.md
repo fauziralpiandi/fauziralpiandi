@@ -1,6 +1,6 @@
 <div align="center">
 
-![Front-End Developer](hero.url)
+![Front-End Developer](hero-url)
 
 **`Fauzira Alpiandi`**
 
