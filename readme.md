@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hero](hero.webp)
+![Front-End Developer](hero.png)
 
 **`Fauzira Alpiandi`**
 
@@ -35,5 +35,11 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<br />
+
+**`Relax and Inspire`**
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&coverimage=true&theme=default&showoffline=false&backgroundcolor=121212&interchange=true&barcolor=53b14f&barcolorcover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&redirect=true)
 
 </div>
