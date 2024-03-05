@@ -1,12 +1,12 @@
 <div align="center">
 
-![Frontend Developer](https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/hero.png)
+![Frontend Developer](https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/banner.png)
 
 **`Fauzira Alpiandi`**
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
-☕️ coffee for code 💻 <br />
+☕️ machine that turns coffee into code 💻 <br />
 🔥 make it work, make it right, make it fast ⚡️ <br />
 ✨️ thirsty for knowledge and pursued by curiosity 💫
 
