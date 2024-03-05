@@ -6,9 +6,9 @@
 
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 
-☕️ machine that turns coffee into code 💻 <br />
-🔥 make it work, make it right, make it fast ⚡️ <br />
-✨️ thirsty for knowledge and pursued by curiosity 💫
+☕️ **machine** that turns coffee into **code** 💻 <br />
+🔥 make it **work**, make it **right**, make it **fast** ⚡️ <br />
+✨️ thirsty for **knowledge** and pursued by **curiosity** 💫
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fwzyrln_)
 
