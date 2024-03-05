@@ -10,8 +10,6 @@
 🔥 make it **work**, make it **right**, make it **fast** ⚡️ <br />
 ✨️ thirsty for **knowledge** and pursued by **curiosity** 💫
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/fwzyrln_)
-
 <br />
 
 **`Passionate Frontend Developer`**
