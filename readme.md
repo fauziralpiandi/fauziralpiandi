@@ -1,7 +1,5 @@
 <div align="center">
 
-**^-**
-
 ![Frontend Developer](https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/banner.png)
 
 **`Fauzira Alpiandi`**
