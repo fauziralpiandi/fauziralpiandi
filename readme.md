@@ -21,7 +21,7 @@
 ![Frameworks][TailwindCSS] <br />
 ![Design][Canva]
 ![Design][Storybook]
-![Design Lightroom][Adobe Lightroom] <br />
+![Design][Adobe Lightroom] <br />
 ![Tools][Replit]
 ![Tools][Visual Studio Code]
 ![OperatingSystem][Windows]
