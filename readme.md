@@ -14,19 +14,19 @@
 
 **`Passionate Frontend Developer`**
 
-![HTML5][HTML5]
-![CSS3][CSS3]
-![JavaScript][JavaScript] <br />
-![Bootstrap][Bootstrap]
-![TailwindCSS][TailwindCSS] <br />
-![Canva][Canva]
-![Storybook][Storybook]
-![Adobe Lightroom][Adobe Lightroom] <br />
-![Replit][Replit]
-![Visual Studio Code][Visual Studio Code]
-![Windows][Windows]
-![Android][Android]
-![macOS][macOS]
+![Languages][HTML5]
+![Languages][CSS3]
+![Languages][JavaScript] <br />
+![Frameworks][Bootstrap]
+![Frameworks][TailwindCSS] <br />
+![Design][Canva]
+![Design][Storybook]
+![Design Lightroom][Adobe Lightroom] <br />
+![Tools][Replit]
+![Tools][Visual Studio Code]
+![OperatingSystem][Windows]
+![OperatingSystem][Android]
+![OperatingSystem][macOS]
 
 <br />
 
