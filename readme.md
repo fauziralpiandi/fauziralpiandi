@@ -1,6 +1,6 @@
 <div align="center">
 
-![Frontend Developer](https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/banner.png)
+![Frontend Developer][banner]
 
 **`Fauzira Alpiandi`**
 
@@ -31,3 +31,5 @@
 <br />
 
 </div>
+
+[banner]: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/banner.png
