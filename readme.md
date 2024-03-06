@@ -34,8 +34,7 @@
 
 [Banner]: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/banner.png
 
-[Freelancer]:
-https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white
+[Freelancer]: https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white
 
 [HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 
