@@ -23,7 +23,7 @@
 ![Design][Storybook]
 ![Design][Adobe Lightroom] <br />
 ![Tools][Replit]
-![Tools][Visual Studio Code]
+![Tools][Visual Studio Code] <br />
 ![OperatingSystem][Windows]
 ![OperatingSystem][Android]
 ![OperatingSystem][macOS]
