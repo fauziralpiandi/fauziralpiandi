@@ -33,6 +33,6 @@
 
 **`Relax and Inspire`**
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)]]
+[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31l4mlnnaoa4pvtd2daiocvk3xxq&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)]
 
 </div>
