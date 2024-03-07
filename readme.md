@@ -30,6 +30,16 @@
 
 <br />
 
+**`Stats`**
+
+https://github-readme-stats.vercel.app/api?username=fauziralpiandi&show_icons=true&theme=radical
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=fauziralpiandi&theme=radical
+
+https://github-readme-stats.vercel.app/api/wakatime?username=fauziralpiandi&theme=radical
+
+<br />
+
 </div>
 
 [Banner]: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/banner.png
