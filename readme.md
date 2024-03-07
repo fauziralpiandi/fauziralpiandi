@@ -1,5 +1,7 @@
 <div align="center">
 
+<br />
+
 <!-- ![Frontend Developer][Banner] -->
 
 **`Fauzira Alpiandi`**
