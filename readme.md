@@ -1,6 +1,6 @@
 <div align="center">
 
-![Frontend Developer][Banner]
+<!-- ![Frontend Developer][Banner] -->
 
 **`Fauzira Alpiandi`**
 
