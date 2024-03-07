@@ -1,8 +1,8 @@
 <div align="center">
 
-![Frontend Developer][Banner]
-
 **`Fauzira Alpiandi`**
+
+![Frontend Developer][Banner]
 
 ☕️ machine that turns **coffee** into **code** 💻 <br />
 🔥 make it **work**, make it **right**, make it **fast** ⚡️ <br />
