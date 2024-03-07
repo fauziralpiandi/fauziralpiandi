@@ -10,7 +10,7 @@
 
 <br />
 
-**`Early EXP - Passionate Frontend Developer`**
+**`Passionate Frontend Developer`**
 
 ![Languages][HTML5]
 ![Languages][CSS3]
@@ -28,7 +28,7 @@
 
 <br />
 
-**`Overview`**
+**`Early EXP`**
 
 <!-- [![Stats](https://github-readme-stats.vercel.app/api?username=fauziralpiandi&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats) -->
 
