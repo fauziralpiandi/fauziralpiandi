@@ -1,8 +1,8 @@
 <div align="center">
 
-**`Fauzira Alpiandi`**
-
 ![Frontend Developer][Banner]
+
+**`Fauzira Alpiandi`**
 
 ☕️ machine that turns **coffee** into **code** 💻 <br />
 🔥 make it **work**, make it **right**, make it **fast** ⚡️ <br />
@@ -10,7 +10,7 @@
 
 <br />
 
-**`Passionate Frontend Developer`**
+**`Early EXP - Passionate Frontend Developer`**
 
 ![Languages][HTML5]
 ![Languages][CSS3]
