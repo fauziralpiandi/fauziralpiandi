@@ -32,9 +32,9 @@
 
 **`Early EXP`**
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=fauziralpiandi&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats)
-
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziralpiandi&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=fauziralpiandi&hide=stars,issues&show_icons=true&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats)
 
 <!-- [![Wakatimes](https://github-readme-stats.vercel.app/api/wakatime?username=fauziralpiandi&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats) -->
 
