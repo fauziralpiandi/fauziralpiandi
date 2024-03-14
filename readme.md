@@ -36,7 +36,7 @@
 
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziralpiandi&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats)
 
-[![Wakatimes](https://github-readme-stats.vercel.app/api/wakatime?username=fauziralpiandi&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats)
+<!-- [![Wakatimes](https://github-readme-stats.vercel.app/api/wakatime?username=fauziralpiandi&theme=radical)](https://github.com/fauziralpiandi/github-readme-stats) -->
 
 <br />
 
