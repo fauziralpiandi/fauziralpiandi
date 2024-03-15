@@ -36,8 +36,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziralpiandi&hide=stars,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fauziralpiandi)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 </div>
