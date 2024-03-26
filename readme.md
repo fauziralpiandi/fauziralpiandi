@@ -38,10 +38,6 @@
 
 <br />
 
-[![Deployments](https://github.com/fauziralpiandi/fauziralpiandi.github.io/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/fauziralpiandi/fauziralpiandi.github.io/actions/workflows/main.yml) ^-
-[![GitHub](https://img.shields.io/github/license/fauziralpiandi/fauziralpiandi.github.io)](https://github.com/fauziralpiandi/fauziralpiandi.github.io/blob/main/license)
-![code-size](https://img.shields.io/github/languages/code-size/fauziralpiandi/fauziralpiandi.github.io)
-
 </div>
 
 [Banner]: https://github.com/fauziralpiandi/fauziralpiandi/blob/main/banner.png
