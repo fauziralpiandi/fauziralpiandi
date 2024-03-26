@@ -40,7 +40,7 @@
 
 </div>
 
-[Banner]: https://raw.githubusercontent.com/fauziralpiandi/fauziralpiandi/main/banner.png
+[Banner]: https://github.com/fauziralpiandi/fauziralpiandi/main/blob/banner.png
 
 [Freelancer]: https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white
 
