@@ -2,6 +2,10 @@
 
 ![Frontend Developer][Banner]
 
+**`Fauzira Alpiandi`**
+
+![Freelancer][Freelancer]
+
 **`Early EXP`**
 
 ![Languages][HTML5]
