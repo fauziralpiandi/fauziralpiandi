@@ -2,8 +2,6 @@
 
 ![Frontend Developer][Banner]
 
-**`Fauzira Alpiandi`**
-
 ![Freelancer][Freelancer]
 
 <br />
