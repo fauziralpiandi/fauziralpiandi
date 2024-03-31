@@ -28,9 +28,9 @@
 
 **`Early EXP`**
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziralpiandi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fauziralpiandi&hide=stars,issues&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauziralpiandi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
