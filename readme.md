@@ -8,7 +8,7 @@
 
 <br />
 
-**`Passionate Frontend Developer`**
+**`Passionate`**
 
 ![Languages][HTML5]
 ![Languages][CSS3]
