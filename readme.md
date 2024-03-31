@@ -19,7 +19,6 @@
 ![OperatingSystem][Windows]
 ![OperatingSystem][Android]
 ![OperatingSystem][macOS] <br />
-![Freelancer][Freelancer]
 
 <br />
 
