@@ -2,8 +2,6 @@
 
 ![Frontend Developer][Banner]
 
-![Freelancer][Freelancer]
-
 <br />
 
 **`Early EXP`**
@@ -20,7 +18,8 @@
 ![Tools][Visual Studio Code] <br />
 ![OperatingSystem][Windows]
 ![OperatingSystem][Android]
-![OperatingSystem][macOS]
+![OperatingSystem][macOS] <br />
+![Freelancer][Freelancer]
 
 <br />
 
