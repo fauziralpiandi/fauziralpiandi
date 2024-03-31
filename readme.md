@@ -2,8 +2,6 @@
 
 ![Frontend Developer][Banner]
 
-<br />
-
 **`Early EXP`**
 
 ![Languages][HTML5]
