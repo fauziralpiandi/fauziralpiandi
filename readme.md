@@ -6,10 +6,6 @@
 
 ![Freelancer][Freelancer]
 
-☕️ machine that turns **coffee** into **code** 💻 <br />
-🔥 make it **work**, make it **right**, make it **fast** ⚡️ <br />
-✨️ thirsty for **knowledge** and pursued by **curiosity** 💫
-
 <br />
 
 **`Passionate Frontend Developer`**
