@@ -6,8 +6,6 @@
 
 ![Freelancer][Freelancer]
 
-**`Early EXP`**
-
 ![Languages][HTML5]
 ![Languages][CSS3]
 ![Languages][JavaScript] <br />
